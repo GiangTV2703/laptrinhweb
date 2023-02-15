@@ -1,0 +1,50 @@
+.col-25{
+   margin: auto;
+    text-align: center;
+}
+.prod{
+    width: 20%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    margin: 6px;
+    padding: 25px;
+    text-align: center;
+    position: relative;
+   float: left;
+}
+.prod>IMG{
+    max-width: 80%;
+    height: 120px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-right:5px;
+}
+.prod >.name{
+    text-align: center;
+    font-variant: small-caps;
+    color: orange;
+    font-size: 20px;
+}
+.prod> .bot{
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: orange;
+    left: 5px;
+    bottom: 5px;
+}
+.prod> .icons{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 25px;
+}
+.prod>.new-icons{
+    position: absolute;
+    top: -8px;
+    right: -2px;
+    width: 20%;
+    height: 20%;
+}
+
+

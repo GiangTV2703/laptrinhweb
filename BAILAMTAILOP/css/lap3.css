@@ -1,0 +1,68 @@
+.container{
+    background-color: aqua;
+    width: 1450px;
+    height: 1000px;
+}
+.container>header{
+    height: 80px;
+    width: 1450px;
+    background-color: orangered;
+}
+.menu{
+    font-variant: small-caps;
+    padding-top: 9px;
+    left: 100px;
+    text-decoration: none;
+}
+.menu>div>li{
+    text-decoration: none;
+    line-height: 40px;
+    display: inline-block;
+    font-size: 25px;
+    padding: 10px;
+    
+}
+.menu>div>li>a{
+    text-decoration: none;
+    color: white;
+}
+.input{
+    position: absolute;
+    top: 25px;
+    left: 1000px;
+}
+.input_1{
+    height: 35px;
+    width: 290px;
+    position: absolute;
+    top: 10px;
+    border-radius: 0 0 5px gray;
+}
+.p1{
+    position: absolute;
+    top: 25px;
+    left: 400px;
+}
+.container>nav{
+    width: 1450px;
+    height: 920px;
+    background-color: white;
+}
+.t1{
+    padding-top: 20px;
+}
+.table{
+    font-size: 18px;
+}
+.table_1{
+    width: 800px;
+    height: 820px;
+    background-color: white;
+    position: absolute;
+    padding-left: 200px;
+}
+.table_2{
+    width: 650px;
+    height: 820px;
+    background-color: aqua;
+}

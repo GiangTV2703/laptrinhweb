@@ -1,0 +1,197 @@
+.co{
+    background-color: red;
+    width: 1455px;
+    height: 3000px;
+    
+}
+.co header{
+    background-color: yellow;
+    width: 1455px;
+    height: 110px;
+    text-align: center;
+}
+.co header div img{
+    width: 5%;
+    position: absolute;
+    left: 250px;
+    top: 3px;
+}
+.co nav{
+    background-color: pink;
+    width: 1455px;
+    height: 2700px;
+    text-align: center;
+}
+.co footer{
+    background-color: wheat;
+    width: 1455px;
+    height: 300px;
+}
+.div1{
+    background-color: red;
+    width: 1455px;
+    height: 65px;
+}
+.div2{
+    width: 1455px;
+    height: 45px;
+    background-color: black;
+    margin-top: -16px;
+}
+.div3{
+    width: 1200px;
+    height: 350px;
+    background-color: ;
+    position: absolute;
+    left: 130px;
+    top: 300px;
+    border-radius: 6px;
+    margin: 0px;
+    padding: 1px;
+}
+.div4{
+    width: 1200px;
+    height: 900px;
+    background-color: white;
+    position: absolute;
+    left: 130px;
+    top: 750px;
+}
+.div5{
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    left:130px;
+    top: 1700px;
+}
+.div6{
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    left: 130px;
+    top: 1950px;
+}
+.div7{
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    left: 130px;
+    top: 2200px;
+}
+.div8{
+    width: 360px;
+    height: 120px;
+    background-color: azure;
+    position: absolute;
+    left: 130px;
+    top: 2650px;
+}
+.div9{
+    width: 360px;
+    height: 120px;
+    background-color: azure;
+    position: absolute;
+    left: 552px;
+    top: 2650px;
+}
+.div10{
+    width: 360px;
+    height: 120px;
+    background-color: azure;
+    position: absolute;
+    left: 972px;
+    top: 2650px;
+}
+
+.top-right>div>li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 9px;
+    font-size: 17px;
+    text-align: left;
+    margin-top: 15px;
+    margin-right: 5px;
+    color: white;
+    position: relative;
+}
+.top-right>div>li>a{
+    text-decoration: none;
+    color: white;
+}
+.p1{
+    position: absolute;
+    left: 900px;
+    top: 16px;
+}
+header .nhap{
+    width: 380px;
+    height: 50px;
+    background-color: azure;
+    position: absolute;
+    top: 15px;
+    left: 350px;
+    border-radius:3px ;
+}
+header .nhap p{
+    margin-top: 14px;
+    margin-left: 13px;
+    font-size: 17px;
+    color: gray;
+}
+header .tim{
+    height: 50px;
+    width: 70px;
+    background-color: black;
+    position: absolute;
+    top: 15px;
+    left: 730px;
+    border-radius: 3px;
+}
+.menu{
+    text-align: center;
+    
+}
+.menu li{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+    font-size: 18px;
+    font-variant: small-caps;
+    
+}
+nav .col-1{
+    margin: auto;
+    text-align: center;
+}
+.prod{
+    width: 200px;
+    height: 170px;
+    background-color: white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 0 0 2px gray;
+    position: relative;
+    float: left;
+}
+.prod >.name{
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+.TEN{
+    font-size: 25px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
